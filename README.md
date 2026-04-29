@@ -1,1 +1,2 @@
 # GokstadAkademiet
+Gokstad Akademiet. 
