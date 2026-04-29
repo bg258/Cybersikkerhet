@@ -1,2 +1,2 @@
 # GokstadAkademiet
-Gokstad Akademiet. 
+Gokstad Akademiet. test
